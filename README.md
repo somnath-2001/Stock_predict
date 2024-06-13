@@ -17,5 +17,5 @@ We have build a web app fro real-time stock price prediction using streamlit, wh
 
 
 ## Disclamer
-This is a educational project don't consider it in reallife and don't make any investment dission according to it.
+This is an educational project don't consider it in reallife and don't make any investment dission according to it.
 
